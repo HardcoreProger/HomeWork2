@@ -9,7 +9,7 @@ public class Exercise1 {//alt + 1 to directory
         System.out.print("press any key to start testing");
         in.nextLine();
 
-        byte count = 0; //inc = count;//count true answers & var for add points
+        byte count = 0; //inc = count; count true answers & var for add points
 
         //1
         System.out.println("\n question 1/20");
